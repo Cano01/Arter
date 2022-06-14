@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arter", "Arter.csproj", "{81AFB3C9-0706-4C61-B2A5-B838FE663D01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawers", "..\Drawers\Drawers.csproj", "{C465F857-71EC-4407-9E05-8210749558D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visualizer", "..\Visualizer\Visualizer.csproj", "{393B1650-60E7-4EE6-9956-7AE73C2FAE85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81AFB3C9-0706-4C61-B2A5-B838FE663D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81AFB3C9-0706-4C61-B2A5-B838FE663D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81AFB3C9-0706-4C61-B2A5-B838FE663D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81AFB3C9-0706-4C61-B2A5-B838FE663D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C465F857-71EC-4407-9E05-8210749558D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C465F857-71EC-4407-9E05-8210749558D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C465F857-71EC-4407-9E05-8210749558D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C465F857-71EC-4407-9E05-8210749558D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{393B1650-60E7-4EE6-9956-7AE73C2FAE85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393B1650-60E7-4EE6-9956-7AE73C2FAE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393B1650-60E7-4EE6-9956-7AE73C2FAE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393B1650-60E7-4EE6-9956-7AE73C2FAE85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49EE5B33-C95C-46C6-8EC0-4FC29DD3EE2D}
+	EndGlobalSection
+EndGlobal
